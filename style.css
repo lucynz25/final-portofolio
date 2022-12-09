@@ -1,0 +1,90 @@
+
+.navbar-brand {
+    margin-left: 1.5vw;
+    font-size: 2.25vw;
+    font-weight: bold;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 0.5vw;
+}
+
+.nav{
+    background-color: white !important;
+}
+
+
+
+
+.nav-link {
+    color:black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 0.1vw;
+}
+
+.nav-link{
+    list-style: none;
+    margin: 0 1vw;
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+  }
+
+  
+.nav {
+    border: white;
+}
+
+.navbar-nav {
+    margin-left: 55vw;
+}
+
+
+ @media screen and (max-width: 767px) {
+    .main-header {
+        font-size: 32px;
+    }
+ }
+
+ .main-header {
+    font-size: 48px;
+    color: black
+ }
+
+ .section-1 {
+    margin-bottom: 0;
+    position: relative;
+    top: 12vw;
+    left: 4vw;
+ }
+
+ .description {
+    font-size: 34px;
+    color: black
+
+ }
+
+ @media screen and (max-width: 767px) {
+    .description {
+        font-size: 24px;
+    }
+ }
+
+ .description-2{
+    font-size: 20px;
+ }
+
+ .image-2{
+    width: 80%;
+    margin-left: 2vw;
+ }
+
+ .image-3{
+    width: 81%;
+ }
+
+
+
+
+
+ 
+
+
